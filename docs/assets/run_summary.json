@@ -1,0 +1,33 @@
+{
+  "k": 3,
+  "feature_set": "raw",
+  "n_samples": 150,
+  "silhouette_score": 0.5528190123564095,
+  "davies_bouldin_score": 0.6619715465007465,
+  "accuracy_vs_species": 0.8933333333333333,
+  "scaled_silhouette_score": 0.45994823920518635,
+  "scaled_accuracy_vs_species": 0.8333333333333334,
+  "best_k_by_silhouette_raw": 2,
+  "best_k_by_silhouette_scaled": 2,
+  "cluster_centers": {
+    "0": {
+      "sepal length (cm)": 5.902,
+      "sepal width (cm)": 2.748,
+      "petal length (cm)": 4.394,
+      "petal width (cm)": 1.434
+    },
+    "1": {
+      "sepal length (cm)": 5.006,
+      "sepal width (cm)": 3.428,
+      "petal length (cm)": 1.462,
+      "petal width (cm)": 0.246
+    },
+    "2": {
+      "sepal length (cm)": 6.85,
+      "sepal width (cm)": 3.074,
+      "petal length (cm)": 5.742,
+      "petal width (cm)": 2.071
+    }
+  },
+  "n_sample_predictions": 5
+}

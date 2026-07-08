@@ -1,0 +1,31 @@
+## Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+## Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+## Jupyter
+.ipynb_checkpoints/
+
+## IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+## Project outputs / artifacts
+outputs/
+*.joblib
+
+## Docs assets (commit README media)
+!docs/
+!docs/assets/
+!docs/assets/**
+
+## Test / tooling
+.pytest_cache/
